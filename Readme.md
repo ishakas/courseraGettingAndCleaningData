@@ -15,12 +15,12 @@ The script will
 4. Appropriately labels the data set with descriptive variable names. 
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-The input data to the script is found at [https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip]
+The input data to the script is found at https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 Information regarding the variables, data and transformations can be found in the Codebook.md
 
 ## Running the script
-1. Download the data from [https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip]
+1. Download the data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 2. Extract the .zip file downloaded in Step 1
 3. Using R, edit run_analysis.r script. Set its working directory to the folder containing the "UCI HAR Dataset" folder extracted in Step 2
 4. Run the script
