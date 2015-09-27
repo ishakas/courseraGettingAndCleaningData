@@ -18,7 +18,7 @@ The final data set contains 68 variables
 - Activity - character values indicating the activity the volunteer performed. There are six different activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING).
 - 66 other variables containing the mean and standard deviation from various accelerometer and gyroscope readings in time domain or frequency domains. 
 
-## Walkthrough
+## Walkthrough / Transformations
 The script reads the training and test data sets from the associated files and combines them into a single data set. The script then extracts only the mean and standard deviation readings for each measurement. 
 
 It then replaces the numeric activities with the appropriate activity labels and renames the variable with more descriptive names.
